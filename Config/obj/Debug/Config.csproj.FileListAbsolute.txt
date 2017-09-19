@@ -1,0 +1,22 @@
+F:\docscanner\omrmarkengine v1\Solution Items\Config.exe
+F:\docscanner\omrmarkengine v1\Solution Items\Config.pdb
+F:\docscanner\omrmarkengine v1\Config\obj\Debug\Config.csprojResolveAssemblyReference.cache
+F:\docscanner\omrmarkengine v1\Config\obj\Debug\Config.CSEncryptDecryptFrom.resources
+F:\docscanner\omrmarkengine v1\Config\obj\Debug\Config.csproj.GenerateResource.Cache
+F:\docscanner\omrmarkengine v1\Config\obj\Debug\Config.exe
+F:\docscanner\omrmarkengine v1\Config\obj\Debug\Config.pdb
+C:\omrmarkengine v1\Solution Items\Config.exe
+C:\omrmarkengine v1\Solution Items\Config.pdb
+C:\omrmarkengine v1\Config\bin\Debug\Config.pdb
+C:\omrmarkengine v1\Config\obj\Debug\Config.CSEncryptDecryptFrom.resources
+C:\omrmarkengine v1\Config\obj\Debug\Config.EditConfig.resources
+C:\omrmarkengine v1\Config\obj\Debug\Config.csproj.GenerateResource.Cache
+C:\omrmarkengine v1\Config\obj\Debug\Config.pdb
+C:\omrmarkengine v1\Config\bin\Debug\Config.dll
+C:\omrmarkengine v1\Config\obj\Debug\Config.dll
+D:\ERWIN GIT\Config\obj\Debug\Config.pdb
+D:\ERWIN GIT\Config\bin\Debug\Config.exe
+D:\ERWIN GIT\Config\bin\Debug\Config.pdb
+D:\ERWIN GIT\Config\obj\Debug\Config.EditConfig.resources
+D:\ERWIN GIT\Config\obj\Debug\Config.csproj.GenerateResource.Cache
+D:\ERWIN GIT\Config\obj\Debug\Config.exe
